@@ -145,3 +145,8 @@ python3 server.py --at-most-once
 ## Conclusion
 
 The laboratory work fully demonstrates RPC communication, timeout handling, retries, and failure scenarios.
+
+
+https://youtu.be/TtHgXuHfDrw
+
+Video Demo
